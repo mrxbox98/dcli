@@ -97,7 +97,7 @@ $ dcliah --name mesh#3230 --moment weekly
 Let's view our historic Crucible stats across all of our characters for all time:
 
 ```
-$ dcliah --name mesh#3230 --mode all_pvp --moment all_time -class all
+$ dcliah --name mesh#3230 --mode all_pvp --moment all_time --class all
 ```
 
 ### Putting it all together
